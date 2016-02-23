@@ -29,6 +29,7 @@ var a = dummy.method(2);
 ## Build ##
 
 ```shell
+npm install
 npm run build
 ```
 
