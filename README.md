@@ -1,14 +1,7 @@
 # README #
 
 ### Installation ###
-Install development build. Replace <password> with the password.
 ```shell
-npm install git+https://tindiman:<password>@bitbucket.org/tindi-id/signalprocessing.git
-```
-
-Install latest commit/build, v0.0.6. Replace <password> with the password.
-```shell
-npm install git+https://tindiman:<password>@bitbucket.org/tindi-id/signalprocessing.git#v0.0.6
 ```
 
 ### Example ###
