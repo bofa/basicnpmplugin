@@ -1,7 +1,5 @@
 # README #
 
-This is the source (ES6) and built files (JavaScript) for some signal processing. It is a framework for state space simulation as well as filtering with the Kalman filter.
-
 ### Installation ###
 Install development build. Replace <password> with the password.
 ```shell
