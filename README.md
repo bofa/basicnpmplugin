@@ -15,7 +15,7 @@ var a = dummy.method(2);
 
 ## Classes ##
 
-* [Dummy](docs/Dummy.md)
+* [Dummy](docs/dummy.md)
 
 ## Build ##
 
