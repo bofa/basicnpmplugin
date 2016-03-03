@@ -8,7 +8,8 @@
     "compile": "./node_modules/.bin/babel src/ -d lib/",
     "watch": "./node_modules/.bin/babel src/ --watch -d lib/",
     "docs": "jsdox lib/ -o docs/",
-    "test": "./node_modules/.bin/mocha --watch"
+    "test": "./node_modules/.bin/mocha --watch",
+    "start": "npm run watch"
   },
   "repository": {
     "type": "git",
