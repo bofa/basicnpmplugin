@@ -17,6 +17,13 @@ var a = dummy.method(2);
 
 * [Dummy](docs/dummy.md)
 
+## Develop ##
+
+```shell
+npm install
+npm start
+```
+
 ## Build ##
 
 ```shell
