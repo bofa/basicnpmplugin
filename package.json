@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepublish": "npm run build",
     "build": "npm run compile && npm run docs",
     "compile": "./node_modules/.bin/babel src/ -d lib/",
     "watch": "./node_modules/.bin/babel src/ --watch -d lib/",
